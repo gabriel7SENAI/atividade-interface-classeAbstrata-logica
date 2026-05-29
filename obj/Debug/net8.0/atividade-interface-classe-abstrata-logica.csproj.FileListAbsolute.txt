@@ -1,0 +1,15 @@
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.AssemblyInfoInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.AssemblyInfo.cs
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.csproj.CoreCompileInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.sourcelink.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\bin\Debug\net8.0\atividade-interface-classe-abstrata-logica.exe
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\bin\Debug\net8.0\atividade-interface-classe-abstrata-logica.deps.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\bin\Debug\net8.0\atividade-interface-classe-abstrata-logica.runtimeconfig.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\bin\Debug\net8.0\atividade-interface-classe-abstrata-logica.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\bin\Debug\net8.0\atividade-interface-classe-abstrata-logica.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\refint\atividade-interface-classe-abstrata-logica.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\atividade-interface-classe-abstrata-logica.genruntimeconfig.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\EXERCÍCIOS\POO\atividade-interface-classe-abstrata-logica\obj\Debug\net8.0\ref\atividade-interface-classe-abstrata-logica.dll
