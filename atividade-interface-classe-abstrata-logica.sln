@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade-interface-classe-abstrata-logica", "atividade-interface-classe-abstrata-logica.csproj", "{319BFD28-E27A-54ED-4BF2-629E541521CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319BFD28-E27A-54ED-4BF2-629E541521CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319BFD28-E27A-54ED-4BF2-629E541521CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319BFD28-E27A-54ED-4BF2-629E541521CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319BFD28-E27A-54ED-4BF2-629E541521CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F42763-0C67-4660-90E2-E6350D2D9451}
+	EndGlobalSection
+EndGlobal
