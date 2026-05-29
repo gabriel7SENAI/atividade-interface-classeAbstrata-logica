@@ -1,4 +1,6 @@
-﻿using atividade_interface_classe_abstrata_logica.Models.Empresa;
+﻿using atividade_interface_classe_abstrata_logica.Models.Animais;
+using atividade_interface_classe_abstrata_logica.Models.Empresa;
+using atividade_interface_classe_abstrata_logica.Models.Pagamento;
 using atividade_interface_classe_abstrata_logica.Models.Veiculos;
 
 Console.Clear();
@@ -39,3 +41,26 @@ Console.Clear();
 
 
 
+// IPagamento formaDePagamento = new Pix();
+
+// Pedido pedido = new PedidoLoja(1, 150, formaDePagamento);
+// pedido.FinalizarPedido();
+
+
+
+Animal cachorro = new Cachorro("achorro", 3);
+Animal gato = new Gato("ato", 7);
+Animal vaca = new Vaca("aca", 4);
+
+List<Animal> animais = new();
+animais.Add(cachorro);
+animais.Add(gato);
+animais.Add(vaca);
+
+foreach (Animal animal in animais)
+{
+    animal.EmitirSom();
+    animal.Comer();
+    animal.Dormir();
+    Console.WriteLine("");
+}

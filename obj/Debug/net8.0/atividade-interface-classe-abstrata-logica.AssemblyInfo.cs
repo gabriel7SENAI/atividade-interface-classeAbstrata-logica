@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atividade-interface-classe-abstrata-logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab13c1c473999670bea7a377ae2e50b7c604993b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61874a3fd54857e91751eac1767ef054850e89de")]
 [assembly: System.Reflection.AssemblyProductAttribute("atividade-interface-classe-abstrata-logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atividade-interface-classe-abstrata-logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
